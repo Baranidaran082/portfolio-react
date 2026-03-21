@@ -26,9 +26,9 @@ function Projects() {
               <h3>Task Manager</h3>
 
               <p>
-                Task Manager is a full-stack application that allows users to
-                create, view, and delete tasks, with a React frontend and a
-                Node.js/Express backend connected to MongoDB.
+                A full-stack MERN application that enables users to create, view, update,
+      and delete tasks. Implemented JWT-based authentication and authorization
+      to ensure secure login and user-specific task management.
               </p>
 
               <div className="project-tech">
@@ -37,6 +37,7 @@ function Projects() {
                 <span>React.js</span>
                 <span>Node.js</span>
                 <span>Axios</span>
+                <span>JWT</span>
               </div>
 
               <div className="project-links">
