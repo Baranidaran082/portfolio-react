@@ -17,41 +17,40 @@ function Projects() {
         <div className="projects-grid">
 
           {/* Project 1 */}
-          <div className="project-card">
-            <div className="project-image">
-              <img src={taskmanagerimage} alt="Task Manager" />
-            </div>
-
-            <div className="project-details">
-              <h3>Task Manager</h3>
-
-              <p>
-                A full-stack MERN application that enables users to create, view, update,
-      and delete tasks. Implemented JWT-based authentication and authorization
-      to ensure secure login and user-specific task management.
-              </p>
-
-              <div className="project-tech">
-                <span>MongoDB</span>
-                <span>Express.js</span>
-                <span>React.js</span>
-                <span>Node.js</span>
-                <span>Axios</span>
-                <span>JWT</span>
+            <div className="project-card">
+              <div className="project-image">
+                <img src={taskmanagerimage} alt="Task Manager" />
               </div>
 
-              <div className="project-links">
-                <a
-                  href="https://github.com/Baranidaran082/mern-task-manager"
-                  className="btn btn-sm btn-outline"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  <i className="fab fa-github"></i> Project Details
-                </a>
+              <div className="project-details">
+                <h3>Task Manager (MERN + AI)</h3>
+
+                <p>
+                  A full-stack MERN app with AI integration for task management, featuring JWT authentication and smart task prioritization.
+                </p>
+
+                <div className="project-tech">
+                  <span>MongoDB</span>
+                  <span>Express.js</span>
+                  <span>React.js</span>
+                  <span>Node.js</span>
+                  <span>Axios</span>
+                  <span>JWT</span>
+                  <span>OpenRouter API</span>
+                </div>
+
+                <div className="project-links">
+                  <a
+                    href="https://github.com/Baranidaran082/mern-task-manager"
+                    className="btn btn-sm btn-outline"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <i className="fab fa-github"></i> Project Details
+                  </a>
+                </div>
               </div>
             </div>
-          </div>
 
           {/* Project 2 */}
           <div className="project-card">

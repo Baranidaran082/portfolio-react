@@ -27,6 +27,8 @@ I create responsive and modern web applications using the MERN stack. I focus on
 - MongoDB 
 - AWS 
 
+### 🤖 AI Integration
+ - OpenRouter API (Task-based AI assistant)
 ---
 
 ##  Experience
@@ -34,16 +36,17 @@ I create responsive and modern web applications using the MERN stack. I focus on
 - Hands-on experience building responsive web applications  
 - Developed full-stack projects using MERN stack  
 - Worked with REST APIs and AWS cloud services  
+- Integrated AI features for smarter user interaction
 
 ---
 
 ## 🚀 Projects
 
-### 1. Task Manager
-A full-stack MERN application for managing tasks with secure authentication.
+### 1. Task Manager (MERN + AI)
+A full-stack MERN application with AI integration for task management, featuring JWT authentication and smart task prioritization.
 
 **Tech Stack:**  
-MongoDB, Express.js, React.js, Node.js, Axios, JWT  
+MongoDB, Express.js, React.js, Node.js, Axios, JWT, OpenRouter API
 
 ---
 
