@@ -88,7 +88,7 @@ function About() {
 
             <div className="about-buttons">
               <a
-                href="./Baranidaran_resume.pdf"
+                href="./Baranidaran_MERN_Developer_Resume.pdf"
                 className="btn btn-primary"
                 download
               >
