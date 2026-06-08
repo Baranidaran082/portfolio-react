@@ -42,11 +42,11 @@ I create responsive and modern web applications using the MERN stack. I focus on
 
 ## 🚀 Projects
 
-### 1. Task Manager (MERN + AI)
-A full-stack MERN application with AI integration for task management, featuring JWT authentication and smart task prioritization.
+### 1. AI-Powered Task Management Agent
+A full-stack MERN application that uses Google Gemini Function Calling to manage tasks through natural language commands.
 
 **Tech Stack:**  
-MongoDB, Express.js, React.js, Node.js, Axios, JWT, OpenRouter API
+MongoDB, Express.js, React.js, Node.js, JWT, Google Gemini API, Function Calling
 
 ---
 

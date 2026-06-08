@@ -23,25 +23,25 @@ function Projects() {
               </div>
 
               <div className="project-details">
-                <h3>Task Manager (MERN + AI)</h3>
+                <h3>AI-Powered Task Management Agent</h3>
 
                 <p>
-                  A full-stack MERN app with AI integration for task management, featuring JWT authentication and smart task prioritization.
+                   A full-stack MERN application that uses Google Gemini Function Calling to manage tasks through natural language commands.
                 </p>
 
                 <div className="project-tech">
-                  <span>MongoDB</span>
-                  <span>Express.js</span>
-                  <span>React.js</span>
-                  <span>Node.js</span>
-                  <span>Axios</span>
-                  <span>JWT</span>
-                  <span>OpenRouter API</span>
+                    <span>MongoDB</span>
+                    <span>Express.js</span>
+                    <span>React.js</span>
+                    <span>Node.js</span>
+                    <span>JWT</span>
+                    <span>Google Gemini API</span>
+                    <span>Function Calling</span>
                 </div>
 
                 <div className="project-links">
                   <a
-                    href="https://github.com/Baranidaran082/mern-task-manager"
+                    href="https://github.com/Baranidaran082/taskai"
                     className="btn btn-sm btn-outline"
                     target="_blank"
                     rel="noopener noreferrer"
